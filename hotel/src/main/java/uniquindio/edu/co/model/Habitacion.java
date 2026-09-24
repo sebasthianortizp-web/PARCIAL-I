@@ -1,5 +1,8 @@
 package uniquindio.edu.co.model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Habitacion {
   //Atributos de la clase Habitaciones
     public int numero;
